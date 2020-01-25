@@ -11,3 +11,7 @@ One of the reasons why I chose to come to Heinz College is because of the data-d
 
 # Portfolio
 Here is where my data visualizations will go.
+
+# Data Viz 2
+[Emily King](dataviz2.md)
+
