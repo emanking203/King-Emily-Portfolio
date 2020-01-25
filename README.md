@@ -14,4 +14,4 @@ Here is where my data visualizations will go.
 
 # Data Viz 2
 
-dataviz2
+https://emanking203.github.io/King-Emily-Portfolio/dataviz2.md
