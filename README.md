@@ -15,3 +15,6 @@ Here is where my data visualizations will go.
 # Data Viz 2
 
 [assignment 2](/dataviz2.md)
+
+# Data Viz 3
+[assignment 3](/dataviz3.md)
