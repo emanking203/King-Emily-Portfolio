@@ -9,8 +9,8 @@ I chose this visualization because diversity in orchestras (including composers,
 ## Description of Process
 When critiquing this visualization, I realized that the data itself is important, it just wasn't visualized very clearly. Using a pie chart was a good thought, because its simple to understand, so I knew that my redesign should probably be another kind of simple chart. I also realized that the huge amount of color was distracting from the data itself, so I knew my redesign had to have a simple color scheme. Another takeaway I had from the critique was that it was challenging to compare each of the categories, so I knew I wanted to set up my chart in a way to made it easy to see the differences between the composers. 
 
-When doing the wireframes, I started out with a simple bar chart, all one
+When doing the wireframes, I started out with a simple bar chart, with
 
 ## My Data Visualization
 
-<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?:display_count=y&publish=yes&:origin=viz_share_link" width="90%" height="500"> </iframe>
+<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="90%" height="500"> </iframe>
