@@ -15,4 +15,4 @@ My redesign was greatly influenced by my wireframing. I decided to get with the 
 
 ## My Data Visualization
 
-<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="95%" height="600"> </iframe>
+<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="95%" height="700"> </iframe>
