@@ -1,7 +1,7 @@
 [home page](/README.md)
 
 ## Original Data Visualization
-https://wophil.org/2019-2020-season-follow-up/?doing_wp_cron=1580420944.1413359642028808593750
+![alt text](https://secureservercdn.net/198.71.233.179/qho.5c9.myftpupload.com/wp-content/uploads/2019/04/Performances-by-Composer_-2019-2020-Season-2.png "Original Data")
 
 ## Why I Chose This Visualization
 
