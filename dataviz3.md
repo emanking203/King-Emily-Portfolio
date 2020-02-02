@@ -13,4 +13,4 @@ When doing the wireframes, I started out with a simple bar chart, with the bars 
 
 ## My Data Visualization
 
-<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="90%" height="500"> </iframe>
+<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="95%" height="600"> </iframe>
