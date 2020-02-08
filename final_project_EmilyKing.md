@@ -11,6 +11,8 @@ At this point, the audience may be wondering if the disparity between male and f
 
 By this point, I hope to have the audience wondering why ochestras choose to feature so few female composers. I hope to have them question how much orchestral music is really progressing if they fail to be inclusive and diverse. This will bring me to my call to action, which will be for the class to listen to and support female composers, demand that orchestras be more inclusive, and support gender representation in all corners of their community. I will provide them with links to websites where they can find out more about female composers and listen to their music, such as the Women Composers Database, and encourage them to share their support publicly with the hope that the message will spread.
 
+![alt text](IMG_0462.jpg)
+
 # Initial Sketches
 
 # The Data
