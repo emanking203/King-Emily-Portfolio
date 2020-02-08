@@ -16,9 +16,29 @@ By this point, I hope to have the audience wondering why ochestras choose to fea
 # Initial Sketches
 
 # The Data
-## List of Orchestras
+### List of Orchestras
 I will create a spreadsheet of US orchestras by compiling information from a Wikipedia list of orchestras, as well as a list of orchestras who are members of the League of American Orchestras.
-[wikipedia](https://en.wikipedia.org/wiki/List_of_symphony_orchestras_in_the_United_States)
+
+[Wikipedia](https://en.wikipedia.org/wiki/List_of_symphony_orchestras_in_the_United_States)
+
 [League of American Orchestras](https://americanorchestras-fontevacustomer.force.com/s/searchdirectory?id=a3I0b000003TXsm)
+
+### Orchestra Repertoire
+I will use this data to show how few females were featured in the most recent season, and then compare the male to female ratio over the past few seasons.
+
+[2019/2020 Season](https://wophil.org/2019-2020-season-follow-up/)
+
+[2018/2019 Season](https://wophil.org/2018-19-season-by-the-numbers/)
+
+[2017/2018 Season](https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1581194906.7084059715270996093750)
+
+[2016/2017 Season](https://wophil.org/works-by-women-in-the-2016-2017-season/?doing_wp_cron=1581194961.8673739433288574218750)
+
+[2014/2015 Season](https://www.bsomusic.org/stories/the-orchestra-season-by-the-numbers-database.aspx)
+
+### Female Composers Available
+I will use the data from this database to show that there is a large number of female composers available for orchestras to feature.
+
+[Female Composers](https://www.composerdiversity.com/)
 
 # Method and Medium
