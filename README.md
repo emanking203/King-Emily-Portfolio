@@ -18,3 +18,6 @@ Here is where my data visualizations will go.
 
 # Data Viz 3
 [assignment 3](/dataviz3.md)
+
+# Final Project
+[Part 1](/final_project_EmilyKing.md)
