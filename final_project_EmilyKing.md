@@ -23,6 +23,11 @@ I will create a spreadsheet of US orchestras by compiling information from a Wik
 
 [League of American Orchestras](https://americanorchestras-fontevacustomer.force.com/s/searchdirectory?id=a3I0b000003TXsm)
 
+### Orchestra Financial Info
+I will use the data included in this report to show how orchestras contribute to our economy.
+
+[Economic Contribution](https://www.arts.gov/sites/default/files/Research-Art-Works-League.pdf)
+
 ### Orchestra Repertoire
 I will use this data to show how few females were featured in the most recent season, and then compare the male to female ratio over the past few seasons.
 
@@ -36,8 +41,9 @@ I will use this data to show how few females were featured in the most recent se
 
 [2014/2015 Season](https://www.bsomusic.org/stories/the-orchestra-season-by-the-numbers-database.aspx)
 
+
 ### Female Composers Available
-I will use the data from this database to show that there is a large number of female composers available for orchestras to feature.
+I will use the data from this database to show that there is a large number of female composers available for orchestras to feature, and to show how few of these female composers were actually included in the most recent season.
 
 [Female Composers](https://www.composerdiversity.com/)
 
