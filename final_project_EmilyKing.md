@@ -15,6 +15,12 @@ By this point, I hope to have the audience wondering why ochestras choose to fea
 
 # Initial Sketches
 
+![alt text](IMG_0467.jpg)
+
+![alt text](IMG_0468.jpg)
+
+![alt text](IMG_0469.jpg)
+
 # The Data
 ### List of Orchestras
 I will create a spreadsheet of US orchestras by compiling information from a Wikipedia list of orchestras, as well as a list of orchestras who are members of the League of American Orchestras.
