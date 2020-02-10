@@ -39,8 +39,6 @@ I will use this data to show how few females were featured in the most recent se
 
 [2016/2017 Season](https://wophil.org/works-by-women-in-the-2016-2017-season/?doing_wp_cron=1581194961.8673739433288574218750)
 
-[2014/2015 Season](https://www.bsomusic.org/stories/the-orchestra-season-by-the-numbers-database.aspx)
-
 
 ### Female Composers Available
 I will use the data from this database to show that there is a large number of female composers available for orchestras to feature, and to show how few of these female composers were actually included in the most recent season.
