@@ -1,9 +1,9 @@
 # Outline
-For my final project, I want to show that top US orchestras do not feature very many female composers, but are slowly getting better. I hope to encourage my audience to push orchestras to feature more female composers so that the orchestral field can progress, become more relevant to them, and so that diversity, inclusion, and representation will be stronger in their community's art ecosystem.  
+For my final project, I want to show that the number of female composers performed by top US orchetras is alarmingly small. I hope to encourage my audience to push orchestras to feature more female composers so that the orchestral field can progress, become more relevant to them, and so that diversity, inclusion, and representation will be stronger in their community's art ecosystem.  
 
-I will start out by showing the audience that orchestras are an important part of their lives, whether they realize it or not. There are thousands of orchestras across the country that contribute billions of dollars to our economy. Along with being key contributors the our economy, orchestras are a part of our everyday lives in that they are a part of many of the songs, shows, and movies that we enjoy. Orchestras are in our lives in many ways, so the decisions they make and the actions they take impact us all. With this message, I hope to draw the audience in and convince them that my story is important to their life.
+I will start out by showing the audience that orchestras are an important part of their lives, whether they realize it or not. There are thousands of orchestras across the country that contribute billions of dollars to our economy. Orchestras are in our lives in many ways, so the decisions they make and the actions they take impact us all. With this message, I hope to draw the audience in and convince them that my story is important to their life.
 
-I then want to open the audience's eyes to some concerning decisions that orchestras make in terms of the composers they choose to feature. This is where I will show that, in this past season, orchestras featured far more male composers than female composers, leaving female voices significantly less heard and less involved in the progression of orchestral music.
+I then want to open the audience's eyes to some concerning decisions that orchestras make in terms of the composers they choose to feature. This is where I will show that, in this past year, orchestras featured far more male composers than female composers, leaving female voices significantly less heard and less involved in the progression of orchestral music.
 
 I then want to show the audience that this was not an isolated event. In the past few years, orchestras have consistently featured far more male composers than female composers. The good news is, though, that orchestras are  getting better; but only very slowly.
 
@@ -30,7 +30,7 @@ I will create a spreadsheet of US orchestras by compiling information from a Wik
 [League of American Orchestras](https://americanorchestras-fontevacustomer.force.com/s/searchdirectory?id=a3I0b000003TXsm)
 
 ### Orchestra Financial Info
-I will use the data included in this report to show how orchestras contribute to our economy.
+I will use the data included in this report to show how much orchestras contribute to our economy.
 
 [Economic Contribution](https://www.arts.gov/sites/default/files/Research-Art-Works-League.pdf)
 
@@ -47,7 +47,7 @@ I will use this data to show how few females were featured in the most recent se
 
 
 ### Female Composers Available
-I will use the data from this database to show that there is a large number of female composers available for orchestras to feature, and to show how few of these female composers were actually included in the most recent season.
+I will use the data from this database to show that there is a large number of female composers available for orchestras to feature, and to show how few of these female composers were actually included in orchestras' most recent season.
 
 [Female Composers](https://www.composerdiversity.com/)
 
