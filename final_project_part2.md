@@ -18,16 +18,20 @@ Relevance of Information
 2. Were you surprised after seeing these visualizations?
 
 Emotional Appeal
+
 3. How do you feel after seeing these visualizations?
 
 Comprehension
+
 4. Do you have any questions about this data?
 5. Were any of the visualizations confusing?
 
 Intention
+
 6. Would you advocate for greater representation of female composers after seeing this?
 
 Improvement
+
 7. Is there anything you would change about this story? 
 
 ### Interview Findings
