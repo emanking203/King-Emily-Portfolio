@@ -48,9 +48,37 @@ Person 1 Responses
 
 Person 2 Responses
 
+1. I did not know this information before seeing the visualizations. I wasn’t that surprised though, I could definitely see this being an issue in the arts.
+
+2. I'm shocked
+
+3. The only visualization I thought was confusing was slide 7. Just to make sure I’m understanding, each non-filled in woman = 50 women composers, and the filled in ones are the number that orchestras are choosing? I’m pretty sure I’m reading it correctly but it took a second look and some more thought. To really make the data tell a good story you need to make it super clear what It’s showing, like no brain power at all, to reach the general public. If it takes too much energy they’ll likely skip over it I feel like. This also might be better when you’re using a computer and not drawing stick figures.
+
+4. Absolutely.
+
+5. I have some thoughts about the titles of your slides.
+
+#1: Orchestras impact communities across the nation 
+
+#2: orchestras contribute significantly to our economy 
+
+Is this the end of the story? What are we gonna do about this? Where do we go from here? I’d add one more slide to kinda wrap it up. Or do a call to action, if this project allows for something like that.
+
 Person 3 Responses
 
+1. I did not know already know this information, but I assumed something like this was the reality. 
+
+2. I am interested in know more about the underlying cause of this issue. Is it because orchestras mostly choose music from a time when women weren't allowed to be composers?
+
+3. My main question is, when were the most frequently played compositions written? Are they all from a certain era?
+
+4. Yes. And I feel that knowing some of the underlying causes will allow for better advocacy.
+
+5. I would add something in about when the pieces were written, or maybe if the most frequently chosen composers are living or dead. I think that adds a lot of value to the message.
+
 ### Changes to storyboard and wireframes
+
+I will make the final visualization clearer by stating in the 2019 - 2020 season, orchestras chose only a small percentage of all the women composers that are out there. I also like person 2's suggestions for the titles, so I will adapt those. I like person 3's thoughts on showing whether the most frequently chosen composers are living or dead, and I agree that continuing to choose composers from the 1800's is part of the gender representation problem. If I have the time, I will try to add that element to my dataset and create either a separate chart or label an existing chart(s) to show how that is part of the problem. 
 
 # Revised Storyboard and Wireframe
 
