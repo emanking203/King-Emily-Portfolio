@@ -46,6 +46,16 @@ Improvement
 
 Person 1 Responses
 
+1. I was generally aware of the information before seeing the visualizations, but I was unaware of the percentages on each visualization. The numerical data was shocking, especially the numbers on visualizations 4 and 6.
+
+2. Honestly, the visualizations made me a little sad, just because so many people are unaware of the importance of orchestras in our communities and representation of those communities in orchestras. I wish more people could look at them, specifically people in charge of these orchestras so somebody can feel as shocked as I felt and feel more compelled to make a change. 
+
+3. No questions! None of them were confusing
+
+4. Absolutely.
+
+5. Is there any relevant data about where women composers are being programmed more frequently based on the communities the orchestras are in? Could you add anything about the types of communities and groups of people (demographically? age group, economic status) orchestras impact/should impact the most to accompany your first visualization? Can you use the word "programming" instead of "choosing" in your last sketch? I really like your color choice.
+
 Person 2 Responses
 
 1. I did not know this information before seeing the visualizations. I wasn’t that surprised though, I could definitely see this being an issue in the arts.
@@ -68,7 +78,7 @@ Person 3 Responses
 
 1. I did not know already know this information, but I assumed something like this was the reality. 
 
-2. I am interested in know more about the underlying cause of this issue. Is it because orchestras mostly choose music from a time when women weren't allowed to be composers?
+2. I am interested in knowing more about the underlying cause of this issue. Is it because orchestras mostly choose music from a time when women weren't allowed to be composers?
 
 3. My main question is, when were the most frequently played compositions written? Are they all from a certain era?
 
@@ -78,7 +88,7 @@ Person 3 Responses
 
 ### Changes to storyboard and wireframes
 
-I will make the final visualization clearer by stating in the 2019 - 2020 season, orchestras chose only a small percentage of all the women composers that are out there. I also like person 2's suggestions for the titles, so I will adapt those. I like person 3's thoughts on showing whether the most frequently chosen composers are living or dead, and I agree that continuing to choose composers from the 1800's is part of the gender representation problem. If I have the time, I will try to add that element to my dataset and create either a separate chart or label an existing chart(s) to show how that is part of the problem. 
+I like person 1's suggestion about showing which orchestras (if any) are successful at showcasing women composers to prove that it is feasible to do so, but I feel that it may take some time to find that data so I'm keeping it on my change list as a maybe. I will take their suggestion to use the word programming instead of chosen. I will make the final visualization clearer by stating in the 2019 - 2020 season, orchestras chose only a small percentage of all the women composers that are out there. I also like person 2's suggestions for the titles, so I will adapt those. I like person 3's thoughts on showing whether the most frequently chosen composers are living or dead, and I agree that continuing to choose composers from the 1800's is part of the gender representation problem. If I have the time, I will try to add that element to my dataset and create either a separate chart or label an existing chart(s) to show how that is part of the problem. 
 
 # Revised Storyboard and Wireframe
 
