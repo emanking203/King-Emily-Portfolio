@@ -94,4 +94,4 @@ I like person 1's suggestion about showing which orchestras (if any) are success
 
 <iframe src="https://public.tableau.com/views/Map_15818068026740/Map?:showVizHome=no&:embed=true " width="95%" height="700"> </iframe>
 
-![alt text](screenshot(18).png)
+![alt text](Screenshot (18).png)
