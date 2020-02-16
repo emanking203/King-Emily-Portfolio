@@ -91,7 +91,7 @@ Person 3 Responses
 I like person 1's suggestion about showing which orchestras (if any) are successful at showcasing women composers to prove that it is feasible to do so, but I feel that it may take some time to find that data so I'm keeping it on my change list as a maybe. I will take their suggestion to use the word programming instead of chosen. I will make the final visualization clearer by stating in the 2019 - 2020 season, orchestras chose only a small percentage of all the women composers that are out there. I also like person 2's suggestions for the titles, so I will adapt those. I like person 3's thoughts on showing whether the most frequently chosen composers are living or dead, and I agree that continuing to choose composers from the 1800's is part of the gender representation problem. If I have the time, I will try to add that element to my dataset and create either a separate chart or label an existing chart(s) to show how that is part of the problem. 
 
 # Revised Storyboard and Wireframe
-<iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="95%" height="700"> </iframe>
-
 
 <iframe src="https://public.tableau.com/views/Map_15818068026740/Map?:showVizHome=no&:embed=true " width="95%" height="700"> </iframe>
+
+![alt text](screenshot(18).png)
