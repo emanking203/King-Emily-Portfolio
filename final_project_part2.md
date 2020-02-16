@@ -94,19 +94,49 @@ I like person 1's suggestion about showing which orchestras (if any) are success
 
 # Revised Storyboard and Wireframe
 
+Orchestras are a part of your life, whether you realize it or not.
+
 <iframe src="https://public.tableau.com/views/Map_15818068026740/Map?:showVizHome=no&:embed=true " width="95%" height="700"> </iframe>
 
+There's hundreds of orchestras across the US. Chances are you have one in your community.
 
 ![alt text](Screenshot (18).png)
 
+Orchestras are a part of our economy. In 2014, orchestras collectively contributed more than an a billion dollars.
+
+Orchestras play a role in our lives, which means the decisions they make and actions they take have an impact on us
+
+With this in mind, let's take a look at who they choose to perform
+
 <iframe src="https://public.tableau.com/views/Graph3_15818164880480/Graph3-MostPlayedComposers?:showVizHome=no&embed=true" width="95%" height="700"> </iframe>
 
+In this past year, the most frequently performed composers were all men. You may also notice that none of these composers are currently alive. Not only are today's composers left out, but female composers left unheard completely.
 
 <iframe src="https://public.tableau.com/views/Graph4EDITED-RatioPieChart/Sheet1?:showVizHome=no&embed=true" width="95%" height="700"> </iframe>
 
+In this past season, women composers only made up about 8% of the individual works performed by top US orchestras.
+
 <iframe src="https://public.tableau.com/views/Graph5_15818170012110/DataViz3?:showVizHome=no&embed=true" width="95%" height="700"> </iframe>
+
+In fact, Beethoven alone was performed more times than all works by women composers combined. 
 
 <iframe title="Orchestras are Slowly Getting Better at Including Women Composers" aria-label="Stacked Column Chart" id="datawrapper-chart-sZQO0" src="//datawrapper.dwcdn.net/sZQO0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+While the representation of women composers is small, the good news is that top US orchestras are slowly becoming more inclusive.
+
 ![alt text](Screenshot (209).png)
+
+The other good news is that there are thousands of women composers out there. It is absolutely feasible for orchestras to include women in their programming.
+
+Call to action:
+We need orchestras to include women composers so that the world of classical music can progress, become more relevant to more people, and so that diversity and inclusion will be stronger in our communities' art ecosystems.
+
+Here's how you can help.
+
+Check out the Institute for Composer Diversity database. They have an extensive list of women composers with links to their webpages. Listen to their music, share with friends, and support them!
+
+Call your local classical music station and request a piece by a woman composer. This will help more women composers get recognized and have their music heard!
+
+Advocacte for gender representation in other aspects of your life and community. Representation is important to progression, and once one sector genuinely commits to being inclusive, other sectors realize how important and beneficial it is. Do your part in whatever field you are involved in!
+
