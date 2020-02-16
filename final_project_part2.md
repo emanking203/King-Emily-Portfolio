@@ -107,6 +107,4 @@ I like person 1's suggestion about showing which orchestras (if any) are success
 <iframe title="Orchestras are Slowly Getting Better at Including Women Composers" aria-label="Stacked Column Chart" id="datawrapper-chart-sZQO0" src="//datawrapper.dwcdn.net/sZQO0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-![alt text](sZQO0-orchestras-are-slowly-getting-better-at-including-women-composers.png)
-
 ![alt text](Screenshot (209).png)
