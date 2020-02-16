@@ -1,6 +1,8 @@
 
 # Initial Storyboard
 
+![alt text](IMG_0497.jpg)
+
 # Initial Wireframes
 
 ![alt text](IMG_0475.jpg)
