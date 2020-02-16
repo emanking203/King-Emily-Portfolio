@@ -103,3 +103,6 @@ I like person 1's suggestion about showing which orchestras (if any) are success
 <iframe src="https://public.tableau.com/views/Graph4EDITED-RatioPieChart/Sheet1?:showVizHome=no&embed=true" width="95%" height="700"> </iframe>
 
 <iframe src="https://public.tableau.com/views/Graph5_15818170012110/DataViz3?:showVizHome=no&embed=true" width="95%" height="700"> </iframe>
+
+<iframe title="Orchestras are Slowly Getting Better at Including Women Composers" aria-label="Stacked Column Chart" id="datawrapper-chart-sZQO0" src="//datawrapper.dwcdn.net/sZQO0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
