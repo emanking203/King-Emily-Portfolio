@@ -19,7 +19,7 @@
 The target audience I hope to reach with this story is the general public, specifically millenials with a wide range of orchestra knowledge. I would like the general population to be aware of and care about the issue of gender representation of composers, and I'd like to inform them of ways to improve the situation, no matter their level of involvement in the arts.
 
 ### Identifying Individuals to Interview
-With the target audience in mind, I gathered 3 individuals in their early 20s (2 male, 1 female) with a range of orchestra knowledge. One individual attended music school and currently works in the arts sector, another was involved in orchestra and band in their childhood but has little involvement today, and the other has very little experience or knowledge of classical music.
+With this target audience in mind, I gathered 3 individuals in their early 20s (2 male, 1 female) with a range of orchestra knowledge. One individual attended music school and currently works in the arts sector, another was involved in orchestra and band in their childhood but has little involvement today, and the other has very little experience or knowledge of classical music.
 
 ### Interview Script
 
@@ -90,7 +90,7 @@ Person 3 Responses
 
 ### Changes to storyboard and wireframes
 
-I like person 1's suggestion about showing which orchestras (if any) are successful at showcasing women composers to prove that it is feasible to do so, but I feel that it may take some time to find that data so I'm keeping it on my change list as a maybe. I will take their suggestion to use the word programming instead of chosen. I will make the final visualization clearer by stating in the 2019 - 2020 season, orchestras chose only a small percentage of all the women composers that are out there. I also like person 2's suggestions for the titles, so I will adapt those. I like person 3's thoughts on showing whether the most frequently chosen composers are living or dead, and I agree that continuing to choose composers from the 1800's is part of the gender representation problem. If I have the time, I will try to add that element to my dataset and create either a separate chart or label an existing chart(s) to show how that is part of the problem. 
+I like person 1's suggestion about showing which orchestras (if any) are successful at showcasing women composers to prove that it is feasible to do so, but I feel that it may take some time to find that data so I'm keeping it on my change list as a "maybe". I will take their suggestion to use the word programming instead of chosen. I will make the final visualization clearer by stating in the 2019 - 2020 season, orchestras chose only a small percentage of all the women composers that are out there. I also like person 2's suggestions for the titles, so I will adapt those. I like person 3's thoughts on showing whether the most frequently chosen composers are living or dead, and I agree that continuing to choose composers from the 1800's is part of the gender representation problem. If I have the time, I will try to add that element to my dataset and create either a separate chart or label an existing chart(s) to show how that is part of the problem. 
 
 # Revised Storyboard and Wireframe
 
