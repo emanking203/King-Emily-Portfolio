@@ -23,3 +23,5 @@ Here is where my data visualizations will go.
 [Part 1](/final_project_EmilyKing.md)
 
 [Part 2](/final_project_part2.md)
+
+[Part3](/final_project_part3.md)
