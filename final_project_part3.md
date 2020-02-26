@@ -1,3 +1,7 @@
+[Part 1](/final_project_EmilyKing.md)
+
+[Part 2](/final_project_part2.md)
+
 # Intended Audience
 How did you decided on this audience?
 What did you do in the final project to make it work for them?
