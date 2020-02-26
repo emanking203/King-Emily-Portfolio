@@ -1,3 +1,4 @@
+[Part 1](/final_project_EmilyKing.md)
 
 # Initial Storyboard
 
@@ -139,4 +140,6 @@ Check out the Institute for Composer Diversity database. They have an extensive 
 Call your local classical music station and request a piece by a woman composer. This will help more women composers get recognized and have their music heard!
 
 Advocacte for gender representation in other aspects of your life and community. Representation is important for progression, and once one sector genuinely commits to being inclusive, other sectors realize how important and beneficial it is. Do your part in whatever field you are involved in!
+
+[Part 3](/final_project_part3.md)
 
