@@ -16,3 +16,17 @@ Once I chose my target audience, I began to think about what information they wo
 # Link to final data story
 
 # References
+
+"2017 - 2018 Season: By the Numbers." Women's Philharmonic Advocacy.  https://wophil.org/2017-18-season-by-the-numbers/. Accessed 9 February 2020.
+
+"2018 - 2019 Season: By the Numbers." Women's Philharmonic Advocacy.  https://wophil.org/2018-19-season-by-the-numbers/?doing_wp_cron=1582736889.8357648849487304687500. Accessed 9 February 2020.
+
+"2019 - 2020 Season: By the Numbers." Women's Philharmonic Advocacy.  https://wophil.org/2019-2020-season-by-the-numbers/?doing_wp_cron=1582514536.2530488967895507812500. Accessed 9 February 2020. 
+
+"About the League." League of American Orchestras.  https://americanorchestras.org/about-the-league.html. Accessed 22 February 2020.
+
+"Composer Diversity Database." Institute for Composer Diversity, https://www.composerdiversity.com/composer-diversity-database. Accessed 9 February 2020.
+
+"Member Directory." League of American Orchestras.  https://americanorchestras.org/about-the-league.html. Accessed 9 February 2020.
+
+"Orchestra Facts: 2006 - 2014." League of American Orchestras. https://www.arts.gov/sites/default/files/Research-Art-Works-League.pdf. Accessed 9 February 2020.
