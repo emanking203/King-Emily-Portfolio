@@ -29,3 +29,42 @@ Once I chose my target audience, I began to think about what information they wo
 "Member Directory." League of American Orchestras.  https://americanorchestras.org/about-the-league.html. Accessed 9 February 2020.
 
 "Orchestra Facts: 2006 - 2014." League of American Orchestras. https://www.arts.gov/sites/default/files/Research-Art-Works-League.pdf. Accessed 9 February 2020.
+
+## Photos
+Photo by [Manuel Nägeli](https://unsplash.com/@gwundrig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex) on [Unsplash](https://unsplash.com/s/photos/symphony?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Antoine Julien](https://unsplash.com/@antoinejulien?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/music-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Larisa Birta](https://unsplash.com/@larisabirta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/orchestra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Marius Masalar](https://unsplash.com/@marius?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash]( https://unsplash.com/s/photos/music-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Isaac Ibbott](https://unsplash.com/@wanderingimagery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/composers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Dayne Topkin](https://unsplash.com/@dtopkin1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/orchestra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+
+Photo by [Stefany Andrade](https://unsplash.com/@stefany_andrade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/music-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Maxim Abramov](https://unsplash.com/@mzudemx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/beethoven?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Spencer Imbrock](https://unsplash.com/@spencerimbrockphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/composers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Zach Doty](https://unsplash.com/@zldoty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/orchestra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Ricardo Gomez Angel](https://unsplash.com/@ripato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/music-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+
+# Direct Links to Sources
+
+[2017/2018 Season](https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1581194906.7084059715270996093750)
+
+[2018/2019 Season](https://wophil.org/2018-19-season-by-the-numbers/)
+
+[2019/2020 Season](https://wophil.org/2019-2020-season-follow-up/)
+
+[About the League](https://americanorchestras.org/about-the-league.html)
+
+[Composer Diversity Database](https://www.composerdiversity.com/composer-diversity-database)
+
+[Member Directory](https://americanorchestras.org/about-the-league.html)
+
+[Orchestra Facts](https://www.arts.gov/sites/default/files/Research-Art-Works-League.pdf)
