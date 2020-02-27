@@ -14,8 +14,7 @@ Once I chose my target audience, I began to think about what information they wo
 
 # Link to final data story
 
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/the-troubling-truth-about-women-composers-and-us-orchestras/"><h1>The Troubling Truth About Women Composers and US Orchestras</h1></div>
+[Shorthand Story](https://carnegiemellon.shorthandstories.com/the-troubling-truth-about-women-composers-and-us-orchestras/index.html)
 
 # References
 
