@@ -24,4 +24,4 @@ Here is where my data visualizations will go.
 
 [Part 2](/final_project_part2.md)
 
-[Part3](/final_project_part3.md)
+[Part 3](/final_project_part3.md)
