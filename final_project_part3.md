@@ -14,6 +14,9 @@ Once I chose my target audience, I began to think about what information they wo
 
 # Link to final data story
 
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/the-troubling-truth-about-women-composers-and-us-orchestras/"><h1>The Troubling Truth About Women Composers and US Orchestras</h1></div>
+
 # References
 
 "2017 - 2018 Season: By the Numbers." Women's Philharmonic Advocacy.  https://wophil.org/2017-18-season-by-the-numbers/. Accessed 9 February 2020.
