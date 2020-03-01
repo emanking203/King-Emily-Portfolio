@@ -2,6 +2,8 @@
 
 [Final Project Part 2](/final_project_part2.md)
 
+# Final Project Part 3
+
 # Intended Audience
 
 Originally, I thought about having my audience be orchestra administrators, as they are the ones making decisions about the works that orchestras program. I ultimately decided to make my audience the general public, though, because I feel it is possible for every person, no matter how involved they are in the orchestra world, to help solve this issue. I also feel that orchestra managers would have more incentive to make change if they received backlash or interest from the general public.
