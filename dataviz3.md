@@ -1,5 +1,5 @@
 
-[Assignment 2](/dataviz2.md)
+[Previous Page: Assignment 2](/dataviz2.md)
 
 # Assignment 3
 
@@ -25,6 +25,6 @@ My redesign was greatly influenced by my wireframing. I decided to stay with the
 
 <iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="95%" height="700"> </iframe>
 
-## Link to Final Project
+## Next: Final Project
 
 [Final Project Part 1](/final_project_EmilyKing.md)
