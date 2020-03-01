@@ -1,6 +1,6 @@
-[Home Page](/README.md)
 
-[Final Project Part 2](/final_project_part2.md)
+
+[Back: Final Project Part 2](/final_project_part2.md)
 
 # Final Project Part 3
 
