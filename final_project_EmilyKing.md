@@ -1,6 +1,5 @@
-[Home Page](/README.md)
 
-[Assignment 3](/dataviz3.md)
+[Back: Assignment 3](/dataviz3.md)
 
 # Final Project Part 1
 
@@ -61,7 +60,7 @@ I will use the data from this database to show that there is a large number of f
 
 I plan to use Datawrapper and Tableau to create my data visualizations. I would then like to build a story with these visualizations using Shorthand. My data visualizations will include things such as a map, line chart, bar charts, pie charts, and stacked bar charts. I will use images from approved sources to add to my story. Images will likely include orchestras, music notes, instruments, and other orchestra-related elements.
 
-## Link to Part 2
+## Next: Part 2
 
 [Part 2](/final_project_part2.md)
 
