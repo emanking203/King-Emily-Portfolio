@@ -1,4 +1,3 @@
-[Home Page](/README.md)
 
 [Final Project Part 1](/final_project_EmilyKing.md)
 
@@ -145,7 +144,7 @@ Call your local classical music station and request a piece by a woman composer.
 
 Advocacte for gender representation in other aspects of your life and community. Representation is important for progression, and once one sector genuinely commits to being inclusive, other sectors realize how important and beneficial it is. Do your part in whatever field you are involved in!
 
-## Link to Part 3
+## Next: Part 3
 
 [Final Project Part 3](/final_project_part3.md)
 
