@@ -1,4 +1,3 @@
-[Home Page](/README.md)
 
 [Assignment 2](/dataviz2.md)
 
