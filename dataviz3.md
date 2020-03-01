@@ -1,4 +1,6 @@
-[home page](/README.md)
+[Home Page](/README.md)
+
+[Assignment 2](/dataviz2.md)
 
 ## Original Data Visualization
 ![alt text](https://secureservercdn.net/198.71.233.179/qho.5c9.myftpupload.com/wp-content/uploads/2019/04/Performances-by-Composer_-2019-2020-Season-2.png "Original Data")
@@ -21,3 +23,5 @@ My redesign was greatly influenced by my wireframing. I decided to stay with the
 ## My Data Visualization
 
 <iframe src="https://public.tableau.com/views/DataViz3Edited/DataViz3?%3AshowVizHome=no&%3Aembed=true#1:display_count=y&publish=yes&:origin=viz_share_link" width="95%" height="700"> </iframe>
+
+[Final Project Part 1](/final_project_EmilyKing.md)
