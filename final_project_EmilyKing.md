@@ -2,6 +2,8 @@
 
 [Assignment 3](/dataviz3.md)
 
+# Final Project Part 1
+
 # Outline
 For my final project, I want to show that the number of female composers performed by top US orchetras is alarmingly small. I hope to encourage my audience to push orchestras to feature more female composers so that the orchestral field can progress, become more relevant to them, and so that diversity, inclusion, and representation will be stronger in their community's art ecosystem.  
 
@@ -58,6 +60,8 @@ I will use the data from this database to show that there is a large number of f
 # Method and Medium
 
 I plan to use Datawrapper and Tableau to create my data visualizations. I would then like to build a story with these visualizations using Shorthand. My data visualizations will include things such as a map, line chart, bar charts, pie charts, and stacked bar charts. I will use images from approved sources to add to my story. Images will likely include orchestras, music notes, instruments, and other orchestra-related elements.
+
+## Link to Part 2
 
 [Part 2](/final_project_part2.md)
 
