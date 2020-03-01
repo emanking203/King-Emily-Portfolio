@@ -17,7 +17,7 @@ When doing the wireframes, I started out with a simple bar chart, with the bars 
 
 ![alt text](IMG_0420.jpg)
 
-![alt text](https://github.com/emanking203/King-Emily-Portfolio/blob/master/IMG_0421%20(1).jpg "Wireframe 2")
+![alt text](IMG_0421 (1).jpg)
 
 My redesign was greatly influenced by my wireframing. I decided to stay with the sideways bar chart, and I also decided to lessen the number of composers included in the chart. I realized that, to communicate the intended message, I didn't actually need every single composer included and that taking some out actually made the chart easier to read. I ended up only including composers who were performed 20 or more times. I also decided to keep the "all women" bar red and make all of the other bars a teal color. The final result, in my mind, is simple, easy to understand, and highlights the amount of times women composers are performed. The overall message is that women composers are underperformed by top US orchestras, and are even surpassed by Beethoven alone.
 
