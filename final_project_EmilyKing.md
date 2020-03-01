@@ -1,3 +1,7 @@
+[Home Page](/README.md)
+
+[Assignment 3](/dataviz3.md)
+
 # Outline
 For my final project, I want to show that the number of female composers performed by top US orchetras is alarmingly small. I hope to encourage my audience to push orchestras to feature more female composers so that the orchestral field can progress, become more relevant to them, and so that diversity, inclusion, and representation will be stronger in their community's art ecosystem.  
 
@@ -57,4 +61,3 @@ I plan to use Datawrapper and Tableau to create my data visualizations. I would 
 
 [Part 2](/final_project_part2.md)
 
-[Part 3](/final_project_part3.md)
