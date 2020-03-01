@@ -25,5 +25,5 @@ The second and third graphs both depend on shape size to communicate values. Onc
 
 The third graph is the only one that uses color to communicate the data. I originally wanted to use color to represent the actual debt values by having the color get darker as the value increased, but I was not able to figure out how to do that in RawGraphs. Instead, I decided to group the countries by continent using color, with the idea that the reader may want to see how countries in a certain continent compare to one another or how the continents themselves compare to one another. I thought about trying to order the countries by continent on the graph, but decided that having them ordered by lowest to highest value would make the bar sizes look nicer and make it easier for the reader to see which countries have the highest and lowest debt as a percentage of GDP. Overall I think the graph I chose communicates how each country's debt has changed over time and highlights the continents those countries belong to, but I still feel there may be better ways to effectively tell this data's story.
 
-## Link to Next Assignment
+## Next: Assignment 3
 [Assignment 3](/dataviz3.md)
