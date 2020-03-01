@@ -1,6 +1,4 @@
 
-[Home Page](/README.md)
-
 # Assignment 2
 
 # Original Data Visualization
