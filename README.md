@@ -12,12 +12,11 @@ One of the reasons why I chose to come to Heinz College is because of the data-d
 # Portfolio
 Here is where my data visualizations will go.
 
-# Data Viz 2
+# Data Vizualization Practice
 
-[assignment 2](/dataviz2.md)
+[Assignment 2](/dataviz2.md)
 
-# Data Viz 3
-[assignment 3](/dataviz3.md)
+[Assignment 3](/dataviz3.md)
 
 # Final Project
 [Part 1](/final_project_EmilyKing.md)
