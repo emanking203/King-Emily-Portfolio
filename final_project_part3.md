@@ -1,6 +1,6 @@
-[Part 1](/final_project_EmilyKing.md)
+[Home Page](/README.md)
 
-[Part 2](/final_project_part2.md)
+[Final Project Part 2](/final_project_part2.md)
 
 # Intended Audience
 
