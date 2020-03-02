@@ -106,7 +106,7 @@ There's hundreds of orchestras across the US. Chances are you have one in your c
 
 ![alt text](Screenshot (18).png)
 
-Orchestras are a part of our economy. In 2014, orchestras collectively contributed more than an a billion dollars.
+Orchestras are a part of our economy. In 2014, orchestras collectively contributed more than a billion dollars.
 
 Orchestras play a role in our lives, which means the decisions they make and actions they take have an impact on us
 
